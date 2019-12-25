@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Grzegorz Kulawik - Software Developer</title>
-    <link>http://gkulawik.github.io/categories/</link>
+    <link>http://grzegorzkulawik.github.io/categories/</link>
     <description>Recent content in Categories on Grzegorz Kulawik - Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://gkulawik.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://grzegorzkulawik.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
